@@ -447,6 +447,27 @@ opacity: 0.4;
         padding-left: 32px;
         padding-right: 32px;
     }
+    .cont_menu{
+        margin-top: 10px;
+        margin-left: 32px;
+        margin-right: 32px;
+    }
+    .img_back{
+        width: 1366px;
+    }
+    .cont_top_text{
+        padding: 16px 100px;
+    }
+    .cont_info{
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+     margin-right: 300px;
+    }
+    .datecont{
+        display: flex;
+    flex-direction: column;
+    }
     .top_info{
         background-position: right 280px;
     }
